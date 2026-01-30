@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gemini Chat</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div class="chat-container">
+  <div class="chat-header">
+    <div class="avatar">🤖</div>
+    <div class="chat-title">
+      <h3>Gemini Chat</h3>
+      <span>online</span>
+    </div>
+    <button id="theme-toggle" title="Dark Mode">🌙</button>
+  </div>
+
+  <div id="chat-box" class="chat-box"></div>
+
+  <form id="chat-form" class="chat-input">
+    <input
+      id="user-input"
+      type="text"
+      placeholder="Ketik pesan..."
+      autocomplete="off"
+    />
+    <button type="submit">➤</button>
+  </form>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
