@@ -15,6 +15,7 @@ This project demonstrates how to integrate a powerful AI model into a lightweigh
 🔄 Real-time message handling
 
 🧠 Context-aware AI conversation
+
 -------------------------------------------------------------------------------------------
 🛠️ Tech Stac Layer	Technology
 
@@ -25,6 +26,7 @@ Frontend	HTML, CSS, JavaScript
 AI API	Gemini 2.5 Flash
 
 Styling	Custom CSS (WhatsApp UI Inspired)
+
 -------------------------------------------------------------------------------------------
 ⚙️ Installation
 
