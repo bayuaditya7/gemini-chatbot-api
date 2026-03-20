@@ -1,6 +1,7 @@
 💬 Gemini Chatbot (WhatsApp-Style UI)
 A modern web-based chatbot powered by Gemini 2.5 Flash API, built using Node.js and JavaScript, with a sleek WhatsApp-inspired UI using HTML & CSS.
 This project demonstrates how to integrate a powerful AI model into a lightweight, responsive chat interface for real-time interaction.
+
 ------------------------------------------------------------------------------------------
 🚀 Features
 
