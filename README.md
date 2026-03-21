@@ -28,7 +28,7 @@ Styling	Custom CSS (WhatsApp UI Inspired)
 -------------------------------------------------------------------------------------------
 ⚙️ Installation
 
-Clone the repository:
+Clone the repository
 
 git clone https://github.com/bayuaditya7/gemini-chatbot-api.git
 cd gemini-chatbot
